@@ -1,0 +1,27 @@
+structlog
+py-cpuinfo==9.0.0
+wget
+ffmpeg-python==0.2.0
+# gradio
+gradio==5.12.0
+numpy==1.26.4
+pydantic==2.9.1
+yt-dlp==2025.01.15
+browser_cookie3
+json5
+more_itertools
+pyyaml
+pandas==1.5.0
+Cython
+huggingface-hub==0.27.1
+cached_path==1.6.7
+# one-click
+tqdm
+markdown
+rich
+ntplib
+# PyTorch 2.5.1
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
