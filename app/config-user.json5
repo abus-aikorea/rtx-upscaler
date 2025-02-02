@@ -55,8 +55,8 @@
     var_mode: 0,
     vsr_enable: true,
     vsr_mode: 0,
-    vsr_scale: 2,
-    compression_enable: false,
+    vsr_scale: 4,
+    compression_enable: true,
     compression_crf: 23,
     compression_preset: "medium",
 }
