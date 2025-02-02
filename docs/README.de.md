@@ -13,7 +13,7 @@
 
 # RTX Upscaler: KI-gestützte Videooptimierung mit NVIDIA RTX-Technologie 📺
 
-🌍 [English](README.md) ∙ [한국어](docs/README.kor.md) ∙ [日本語](docs/README.jpn.md) ∙ [中文简体](docs/README.zh.md) ∙ [中文繁體](docs/README.tw.md) ∙ [Deutsch](docs/README.de.md) ∙ [Español](docs/README.es.md)
+🌍 [English](../README.md) ∙ [한국어](README.kor.md) ∙ [日本語](README.jpn.md) ∙ [中文简体](README.zh.md) ∙ [中文繁體](README.tw.md) ∙ [Deutsch](README.de.md) ∙ [Español](README.es.md)
 
 Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit NVIDIA RTX-Technologie. RTX Upscaler ist eine benutzerfreundliche Gradio-basierte GUI, die die Leistung des NVIDIA Maxine Video Effects SDK für KI-gestützte Videooptimierung nutzt.
 

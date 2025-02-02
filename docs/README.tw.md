@@ -13,7 +13,7 @@
 
 # RTX Upscaler：基於 NVIDIA RTX 技術的 AI 視頻增強工具 📺
 
-🌍 [English](README.md) ∙ [한국어](docs/README.kor.md) ∙ [日本語](docs/README.jpn.md) ∙ [中文简体](docs/README.zh.md) ∙ [中文繁體](docs/README.tw.md) ∙ [Deutsch](docs/README.de.md) ∙ [Español](docs/README.es.md)
+🌍 [English](../README.md) ∙ [한국어](README.kor.md) ∙ [日本語](README.jpn.md) ∙ [中文简体](README.zh.md) ∙ [中文繁體](README.tw.md) ∙ [Deutsch](README.de.md) ∙ [Español](README.es.md)
 
 運用 NVIDIA RTX 技術將低畫質視頻轉換成清晰精美的作品。RTX Upscaler 是一個基於 Gradio 的使用者友善介面，採用 NVIDIA Maxine Video Effects SDK 進行 AI 視頻增強。
 
