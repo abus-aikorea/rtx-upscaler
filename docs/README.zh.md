@@ -31,6 +31,10 @@
 - **老旧视频修复**: 将老旧视频升级至现代画质标准
 - **一键安装**: 便捷安装，支持便携式使用
 
+## 🛸 演示视频
+- [You Call It Love (from L étudiante)](https://youtu.be/HXomwoKS3V4)
+- [A-ha • “Take On Me” • 1985 [Reelin' In The Years Archive]](https://youtu.be/cZPSTTsmHxI)
+
 ## 🎯 系统要求
 
 - **操作系统**: 仅支持 Windows 10/11 (64位)

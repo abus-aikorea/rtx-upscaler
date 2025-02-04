@@ -31,6 +31,10 @@ NVIDIA RTX 기술을 활용하여 낮은 화질의 비디오를 고품질로 변
 - **오래된 영상 복원**: 구형 영상을 현대적 품질로 업그레이드
 - **원클릭 설치**: 설치가 간편하고 이동이 자유로움
 
+## 🛸 데모 영상
+- [You Call It Love (from L étudiante)](https://youtu.be/HXomwoKS3V4)
+- [A-ha • “Take On Me” • 1985 [Reelin' In The Years Archive]](https://youtu.be/cZPSTTsmHxI)
+
 ## 🎯 시스템 요구사항
 
 - **운영체제**: Windows 10/11 (64비트) 전용

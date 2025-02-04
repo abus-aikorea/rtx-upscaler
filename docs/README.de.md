@@ -31,6 +31,10 @@ Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit
 - **Restaurierung alter Videos**: Perfekt für die Aufwertung alter Aufnahmen auf moderne Standards
 - **Ein-Klick-Installation**: Portabel und einfach einzurichten
 
+## 🛸 Demovideos
+- [You Call It Love (from L étudiante)](https://youtu.be/HXomwoKS3V4)
+- [A-ha • “Take On Me” • 1985 [Reelin' In The Years Archive]](https://youtu.be/cZPSTTsmHxI)
+
 ## 🎯 Systemanforderungen
 
 - **Betriebssystem**: Nur Windows 10/11 (64-bit)

@@ -33,7 +33,10 @@ Transform your low-quality videos into crystal-clear masterpieces using NVIDIA R
 - **User-Friendly Interface**: Simple Gradio-based GUI for easy operation
 - **Vintage Video Restoration**: Perfect for upgrading old footage to modern standards
 - **One-Click Installation**: Portable and easy to set up
-  
+
+## 🛸 Demo Videos
+- [You Call It Love (from L étudiante)](https://youtu.be/HXomwoKS3V4)
+- [A-ha • “Take On Me” • 1985 [Reelin' In The Years Archive]](https://youtu.be/cZPSTTsmHxI)
 
 ## 🎯 System Requirements
 
