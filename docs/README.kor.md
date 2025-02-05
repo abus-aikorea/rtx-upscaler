@@ -38,7 +38,8 @@ NVIDIA RTX 기술을 활용하여 낮은 화질의 비디오를 고품질로 변
 ## 🎯 시스템 요구사항
 
 - **운영체제**: Windows 10/11 (64비트) 전용
-- **GPU**: NVIDIA RTX 시리즈 (20, 30, 40, 50) 또는 NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX 또는 그 이상
+- **NVIDIA 드라이버**: NVIDIA 디스플레이 드라이버 버전 570 또는 그 이상
 - **VRAM**: 최소 4GB (8GB 권장)
 - **RAM**: 최소 4GB
 - **저장공간**: 20GB 여유공간
@@ -78,10 +79,11 @@ NVIDIA RTX 기술을 활용하여 낮은 화질의 비디오를 고품질로 변
 ## ⚠️ 주의사항
 
 - **무료 체험판 제한**: 최대 60초 비디오 처리 가능
-- **GPU 호환성**: NVIDIA RTX 20 시리즈 이상만 지원
+- **GPU 호환성**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX 또는 그 이상
+- **NVIDIA 드라이버**: NVIDIA 디스플레이 드라이버 버전 570 또는 그 이상
 - **필수 소프트웨어**:
-  - 최신 [NVIDIA 그래픽 드라이버](https://www.nvidia.com/ko-kr/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 문제 해결
 

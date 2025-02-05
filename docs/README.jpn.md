@@ -38,7 +38,8 @@ NVIDIA RTX テクノロジーを活用して、低品質の動画を高品質に
 ## 🎯 システム要件
 
 - **OS**: Windows 10/11 (64ビット) のみ
-- **GPU**: NVIDIA RTX シリーズ (20, 30, 40, 50) または NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060、Quadro RTX 3000、TITAN RTX以上
+- **NVIDIAドライバー**: NVIDIAディスプレイドライバーバージョン570以上
 - **VRAM**: 最小 4GB (8GB 推奨)
 - **RAM**: 最小 4GB
 - **ストレージ**: 20GB の空き容量
@@ -78,10 +79,11 @@ NVIDIA RTX テクノロジーを活用して、低品質の動画を高品質に
 ## ⚠️ 注意事項
 
 - **無料体験版の制限**: 最大60秒の動画処理が可能
-- **GPU 互換性**: NVIDIA RTX 20 シリーズ以降のみ対応
+- **GPU互換性**: NVIDIA GeForce RTX 2060、Quadro RTX 3000、TITAN RTX以上
+- **NVIDIAドライバー**: NVIDIAディスプレイドライバーバージョン570以上
 - **必須ソフトウェア**:
-  - 最新の [NVIDIA グラフィックドライバー](https://www.nvidia.co.jp/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 トラブルシューティング
 

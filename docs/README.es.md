@@ -38,7 +38,8 @@ Transforme sus videos de baja calidad utilizando la tecnología NVIDIA RTX. RTX 
 ## 🎯 Requisitos del Sistema
 
 - **Sistema Operativo**: Solo Windows 10/11 (64 bits)
-- **GPU**: Series NVIDIA RTX (20, 30, 40, 50) o NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX o superior
+- **Controlador NVIDIA**: Controlador de pantalla NVIDIA versión 570 o superior
 - **VRAM**: Mínimo 4GB (8GB recomendado)
 - **RAM**: Mínimo 4GB
 - **Almacenamiento**: 20GB de espacio libre
@@ -78,10 +79,11 @@ Transforme sus videos de baja calidad utilizando la tecnología NVIDIA RTX. RTX 
 ## ⚠️ Notas Importantes
 
 - **Limitaciones de Prueba Gratuita**: Procesa hasta 60 segundos de video
-- **Compatibilidad GPU**: Solo compatible con NVIDIA RTX Serie 20 y posteriores
+- **Compatibilidad de la GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX o superior
+- **Controlador NVIDIA**: Controlador de pantalla NVIDIA versión 570 o superior
 - **Software Requerido**:
-  - Último [Controlador Gráfico NVIDIA](https://www.nvidia.es/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 Solución de Problemas
 

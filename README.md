@@ -41,7 +41,8 @@ Transform your low-quality videos into crystal-clear masterpieces using NVIDIA R
 ## 🎯 System Requirements
 
 - **Operating System**: Windows 10/11 (64-bit) only
-- **GPU**: NVIDIA RTX Series (20, 30, 40, 50) or NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX or higher
+- **NVIDIA Driver**: 	NVIDIA Display Driver version 570 or higher
 - **VRAM**: Minimum 4GB (8GB recommended)
 - **RAM**: 4GB minimum
 - **Storage**: 20GB free space
@@ -86,10 +87,11 @@ Transform your low-quality videos into crystal-clear masterpieces using NVIDIA R
 ## ⚠️ Important Notes
 
 - **Free Trial Limitations**: Processes up to 60 seconds of video
-- **GPU Compatibility**: Only supports NVIDIA RTX 20 Series and newer
+- **GPU Compatibility**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX or higher
+- **NVIDIA Driver**: 	NVIDIA Display Driver version 570 or higher
 - **Required Software**:
-  - Latest [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 Troubleshooting
 

@@ -38,7 +38,8 @@ Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit
 ## 🎯 Systemanforderungen
 
 - **Betriebssystem**: Nur Windows 10/11 (64-bit)
-- **Grafikkarte**: NVIDIA RTX Serie (20, 30, 40, 50) oder NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX oder höher
+- **NVIDIA-Treiber**: NVIDIA-Anzeigetreiber Version 570 oder höher
 - **VRAM**: Mindestens 4GB (8GB empfohlen)
 - **RAM**: Mindestens 4GB
 - **Speicherplatz**: 20GB freier Speicherplatz
@@ -78,10 +79,11 @@ Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit
 ## ⚠️ Wichtige Hinweise
 
 - **Einschränkungen der kostenlosen Version**: Verarbeitet bis zu 60 Sekunden Video
-- **GPU-Kompatibilität**: Unterstützt nur NVIDIA RTX 20 Serie und neuer
+- **GPU-Kompatibilität**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX oder höher
+- **NVIDIA-Treiber**: NVIDIA-Anzeigetreiber Version 570 oder höher
 - **Erforderliche Software**:
-  - Neuester [NVIDIA Grafiktreiber](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 Fehlerbehebung
 

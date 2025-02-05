@@ -38,7 +38,8 @@
 ## 🎯 系统要求
 
 - **操作系统**: 仅支持 Windows 10/11 (64位)
-- **显卡**: NVIDIA RTX 系列 (20, 30, 40, 50) 或 NVIDIA Quadro RTX
+- **GPU**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX 或更高版本
+- **NVIDIA 驱动程序**: NVIDIA 显示驱动程序版本 570 或更高版本
 - **显存**: 最低 4GB (建议 8GB)
 - **内存**: 最低 4GB
 - **存储空间**: 20GB 可用空间
@@ -78,10 +79,11 @@
 ## ⚠️ 注意事项
 
 - **免费试用版限制**: 可处理最长 60 秒视频
-- **显卡兼容性**: 仅支持 NVIDIA RTX 20 系列及更新型号
+- **GPU 兼容性**: NVIDIA GeForce RTX 2060, Quadro RTX 3000, TITAN RTX 或更高版本
+- **NVIDIA 驱动程序**: NVIDIA 显示驱动程序版本 570 或更高版本
 - **必需软件**:
-  - 最新 [NVIDIA 显卡驱动](https://www.nvidia.cn/drivers/)
-  - [NVIDIA Video Effects SDK](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
+  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ## 🔧 故障排除
 
