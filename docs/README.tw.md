@@ -44,7 +44,7 @@
 - **記憶體**：最低 4GB
 - **儲存空間**：20GB 可用空間
 - **網路**：安裝和更新時需要
-- **驅動程式**：需要最新的 NVIDIA 顯示卡驅動程式
+
 
 ## 🛠️ 安裝指南
 
@@ -83,7 +83,7 @@
 - **NVIDIA 驅動程式**: NVIDIA 顯示驅動程式版本 570 或更高版本
 - **必要軟體**：
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 故障排除
 

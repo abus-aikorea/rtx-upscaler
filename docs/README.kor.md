@@ -44,7 +44,7 @@ NVIDIA RTX 기술을 활용하여 낮은 화질의 비디오를 고품질로 변
 - **RAM**: 최소 4GB
 - **저장공간**: 20GB 여유공간
 - **인터넷**: 설치 및 업데이트에 필요
-- **드라이버**: 최신 NVIDIA 그래픽 드라이버 필수
+
 
 ## 🛠️ 설치 가이드
 
@@ -83,7 +83,7 @@ NVIDIA RTX 기술을 활용하여 낮은 화질의 비디오를 고품질로 변
 - **NVIDIA 드라이버**: NVIDIA 디스플레이 드라이버 버전 570 또는 그 이상
 - **필수 소프트웨어**:
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 문제 해결
 

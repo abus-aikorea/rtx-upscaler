@@ -44,7 +44,7 @@ Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit
 - **RAM**: Mindestens 4GB
 - **Speicherplatz**: 20GB freier Speicherplatz
 - **Internet**: Erforderlich für Installation und Updates
-- **Treiber**: Neuester NVIDIA Grafiktreiber erforderlich
+
 
 ## 🛠️ Installationsanleitung
 
@@ -83,7 +83,7 @@ Verwandeln Sie qualitativ minderwertige Videos in kristallklare Meisterwerke mit
 - **NVIDIA-Treiber**: NVIDIA-Anzeigetreiber Version 570 oder höher
 - **Erforderliche Software**:
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 Fehlerbehebung
 

@@ -47,7 +47,7 @@ Transform your low-quality videos into crystal-clear masterpieces using NVIDIA R
 - **RAM**: 4GB minimum
 - **Storage**: 20GB free space
 - **Internet**: Required for installation and updates
-- **Drivers**: Latest NVIDIA Graphics Driver required
+
 
 
 
@@ -91,7 +91,7 @@ Transform your low-quality videos into crystal-clear masterpieces using NVIDIA R
 - **NVIDIA Driver**: 	NVIDIA Display Driver version 570 or higher
 - **Required Software**:
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 Troubleshooting
 

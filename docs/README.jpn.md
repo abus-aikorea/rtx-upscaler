@@ -44,7 +44,7 @@ NVIDIA RTX テクノロジーを活用して、低品質の動画を高品質に
 - **RAM**: 最小 4GB
 - **ストレージ**: 20GB の空き容量
 - **インターネット**: インストールとアップデートに必要
-- **ドライバー**: 最新の NVIDIA グラフィックドライバーが必須
+
 
 ## 🛠️ インストールガイド
 
@@ -83,7 +83,7 @@ NVIDIA RTX テクノロジーを活用して、低品質の動画を高品質に
 - **NVIDIAドライバー**: NVIDIAディスプレイドライバーバージョン570以上
 - **必須ソフトウェア**:
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 トラブルシューティング
 

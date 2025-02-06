@@ -44,7 +44,7 @@ Transforme sus videos de baja calidad utilizando la tecnología NVIDIA RTX. RTX 
 - **RAM**: Mínimo 4GB
 - **Almacenamiento**: 20GB de espacio libre
 - **Internet**: Necesario para instalación y actualizaciones
-- **Controladores**: Último controlador gráfico NVIDIA requerido
+
 
 ## 🛠️ Guía de Instalación
 
@@ -83,7 +83,7 @@ Transforme sus videos de baja calidad utilizando la tecnología NVIDIA RTX. RTX 
 - **Controlador NVIDIA**: Controlador de pantalla NVIDIA versión 570 o superior
 - **Software Requerido**:
   - [NVIDIA Graphics Driver](https://www.nvidia.com/en-us/drivers/)
-  - [NVIDIA Video Effects (Version 0.7.6)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
 
 ## 🔧 Solución de Problemas
 
